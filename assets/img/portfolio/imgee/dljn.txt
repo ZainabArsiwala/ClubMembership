@@ -1,0 +1,18 @@
+app:
+	carrom
+	chess
+	gym
+	Tennis
+	snooker
+
+card:
+	badminton
+	Gym2
+	swimming
+	TableTennis
+	workout
+
+Web:
+	yoga
+	running
+	zumba
