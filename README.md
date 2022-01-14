@@ -1,5 +1,5 @@
 # ClubMembership
-# Unwind-club-management-application
+# Unwind-club-management-application (Sports membership)
 This is an application built to manage sports club members using crud funtions.
 ### Requirements 
 > Xamp Server
